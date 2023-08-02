@@ -52,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Don't include .html in permalink
+permalink: /:categories/:year/:month/:day/:title
