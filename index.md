@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Home
 ---
 
 <h2>Blog</h2>
