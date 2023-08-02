@@ -58,3 +58,9 @@ permalink: pretty
 feed:
   # Host the feed inside /blog
   path: /blog/feed.xml
+
+# Specify header pages order
+header_pages:
+  - blog.md
+  - projects.md
+  - contacts.md
