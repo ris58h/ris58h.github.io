@@ -20,4 +20,7 @@ title: Blog
   {%- endfor -%}
 </ul>
 
-<p class="rss-subscribe">Subscribe <a href="{{ "/blog/feed.xml" | relative_url }}">via RSS</a></p>
+<p class="rss-subscribe">
+<svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg>
+<a href="{{ "/blog/feed.xml" | relative_url }}">Feed</a>
+</p>
