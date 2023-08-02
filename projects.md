@@ -1,17 +1,11 @@
 ---
-layout: default
+layout: page
 title: Projects
 permalink: /projects/
 ---
 
 <div class="home">
-  <!-- {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%} -->
 
-  <!-- {{ content }} -->
-
-  <h2 class="post-list-heading">Projects</h2>
   <ul class="post-list">
       {%- for project in site.data.projects -%}
       <li>
