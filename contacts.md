@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contacts
-permalink: /contacts/
 ---
 
 <ul class="contact-list">
