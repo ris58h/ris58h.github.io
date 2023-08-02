@@ -54,3 +54,7 @@ plugins:
 
 # Don't include .html in permalink
 permalink: pretty
+
+feed:
+  # Host the feed inside /blog
+  path: /blog/feed.xml
