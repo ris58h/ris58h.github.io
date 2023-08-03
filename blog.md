@@ -3,8 +3,10 @@ layout: page
 title: Blog
 ---
 
+{%- assign posts = site.posts -%}
+{%- if posts.size > 0 -%}
 <ul class="post-list">
-  {%- for post in site.posts -%}
+  {%- for post in posts -%}
   <li>
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -19,6 +21,9 @@ title: Blog
   </li>
   {%- endfor -%}
 </ul>
+{%- else -%}
+<p>No posts yet.</p>
+{%- endif -%}
 
 <!-- <p class="rss-subscribe">
 <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg>

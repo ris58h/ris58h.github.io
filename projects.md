@@ -3,8 +3,10 @@ layout: page
 title: Projects
 ---
 
+{%- assign projects = site.data.projects -%}
+{%- if projects.size > 0 -%}
 <ul class="post-list">
-    {%- for project in site.data.projects -%}
+    {%- for project in projects -%}
     <li>
     <h3>
         <a class="post-link" href="{{ project.url | absolute_url }}">
@@ -15,3 +17,6 @@ title: Projects
     </li>
     {%- endfor -%}
 </ul>
+{%- else -%}
+<p>No projects yet.</p>
+{%- endif -%}
