@@ -4,19 +4,4 @@ title: Projects
 ---
 
 {%- assign projects = site.data.projects -%}
-{%- if projects.size > 0 -%}
-<ul class="post-list">
-    {%- for project in projects -%}
-    <li>
-    <h3>
-        <a class="post-link" href="{{ project.url | absolute_url }}">
-        {{ project.name | escape }}
-        </a>
-    </h3>
-    {{ project.description | escape }}
-    </li>
-    {%- endfor -%}
-</ul>
-{%- else -%}
-<p>No projects yet.</p>
-{%- endif -%}
+{%- include projects.html projects=projects -%}
