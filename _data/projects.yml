@@ -1,39 +1,39 @@
-- name: Touch-Tab
-  description: Switch apps with trackpad on macOS.
-  url: https://github.com/ris58h/Touch-Tab
+- name: "Touch-Tab"
+  description: "Switch apps with trackpad on macOS."
+  url: "https://github.com/ris58h/Touch-Tab"
 
-- name: ExKeyMo
-  description: Android external keyboard remapping without root.
-  url: https://github.com/ris58h/exkeymo-web
+- name: "ExKeyMo"
+  description: "Android external keyboard remapping without root."
+  url: "https://github.com/ris58h/exkeymo-web"
 
-- name: Validate keymaps tool
-  description: Android's Keymap Validation Tool.
-  url: https://ris58h.github.io/validatekeymaps/
+- name: "Validate keymaps tool"
+  description: "Android's Keymap Validation Tool."
+  url: "https://ris58h.github.io/validatekeymaps/"
 
-- name: Finder Widget
-  description: Android homescreen widget to open Samsung Finder.
-  url: https://github.com/ris58h/galaxyfinder-widget
+- name: "Finder Widget"
+  description: "Android homescreen widget to open Samsung Finder."
+  url: "https://github.com/ris58h/galaxyfinder-widget"
 
-- name: Custom Keyboard Layout
-  description: Skeleton project for Android app that provides custom keyboard layouts.
-  url: https://github.com/ris58h/custom-keyboard-layout
+- name: "Custom Keyboard Layout"
+  description: "Skeleton project for Android app that provides custom keyboard layouts."
+  url: "https://github.com/ris58h/custom-keyboard-layout"
 
-- name: WebCalm
-  description: IntelliJ IDEA plugin that adds support for JavaScript and CSS.
-  url: https://plugins.jetbrains.com/plugin/21826-webcalm-javascript-and-css
+- name: "WebCalm"
+  description: "IntelliJ IDEA plugin that adds support for JavaScript and CSS."
+  url: "https://plugins.jetbrains.com/plugin/21826-webcalm-javascript-and-css"
 
-- name: Laconic POM
-  description: Plugin for IntelliJ IDEA to fold Maven's boilerplate.
-  url: https://plugins.jetbrains.com/plugin/10580-laconic-pom-for-maven
+- name: "Laconic POM"
+  description: "Plugin for IntelliJ IDEA to fold Maven's boilerplate."
+  url: "https://plugins.jetbrains.com/plugin/10580-laconic-pom-for-maven"
 
-- name: Android Keymap Files Support
-  description: 'Plugin for IntelliJ IDEs to support Android keymap files: *.kl, *.kcm, *.idc.'
-  url: https://plugins.jetbrains.com/plugin/20955-android-keymap-files-support
+- name: "Android Keymap Files Support"
+  description: "Plugin for IntelliJ IDEs to support Android keymap files: *.kl, *.kcm, *.idc."
+  url: "https://plugins.jetbrains.com/plugin/20955-android-keymap-files-support"
 
-- name: YouTube Chapters In Player
-  description: Web extension that shows YouTube chapters right in the player.
-  url: https://ris58h.github.io/youtube-chapters-in-player/
+- name: "YouTube Chapters In Player"
+  description: "Web extension that shows YouTube chapters right in the player."
+  url: "https://ris58h.github.io/youtube-chapters-in-player/"
 
-- name: YouTube Timestamps
-  description: Web extension that shows timestamps from YouTube comments on timeline.
-  url: https://ris58h.github.io/youtube-timestamps/
+- name: "YouTube Timestamps"
+  description: "Web extension that shows timestamps from YouTube comments on timeline."
+  url: "https://ris58h.github.io/youtube-timestamps/"
