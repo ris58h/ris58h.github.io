@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Home
+layout: default
+# title: Home
 ---
 
 <h2>Blog</h2>
