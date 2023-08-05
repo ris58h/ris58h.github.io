@@ -31,7 +31,7 @@ linkedin_username: ilya-rodionov-0a9725215
 # Build settings
 theme: minima
 plugins:
- - jekyll-feed
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -55,10 +55,6 @@ plugins:
 
 # Don't include .html in permalink
 permalink: pretty
-
-feed:
-  # Host the feed inside /blog
-  path: /blog/feed.xml
 
 # Specify header pages order
 header_pages:
