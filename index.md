@@ -1,7 +1,8 @@
 ---
 layout: default
-# title: Home
 ---
+
+<p>Product-minded Software Developer.</p>
 
 <h2>Blog</h2>
 {%- assign posts = site.posts | slice: 0, 3 -%}
