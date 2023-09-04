@@ -1,3 +1,7 @@
+- name: "Voronoi"
+  description: "Voronoi diagrams."
+  url: "https://ris58h.github.io/voronoi/"
+
 - name: "Touch-Tab"
   description: "Switch apps with trackpad on macOS."
   url: "https://github.com/ris58h/Touch-Tab"
