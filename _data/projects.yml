@@ -41,3 +41,7 @@
 - name: "YouTube Timestamps"
   description: "Web extension that shows timestamps from YouTube comments on timeline."
   url: "https://ris58h.github.io/youtube-timestamps/"
+
+- name: "Annual Day Counter"
+  description: "Just count specific days in a year."
+  url: "https://ris58h.github.io/annual-day-counter/"
