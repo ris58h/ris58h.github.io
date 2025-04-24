@@ -32,7 +32,7 @@
 
 - name: "ExKeyMo"
   description: "Android external keyboard remapping without root."
-  url: "https://github.com/ris58h/exkeymo-web"
+  url: "https://github.com/ris58h/exkeymo-server"
 
 - name: "Custom Keyboard Layout"
   description: "Skeleton project for Android app that provides custom keyboard layouts."
